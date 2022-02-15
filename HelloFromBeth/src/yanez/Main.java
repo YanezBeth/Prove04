@@ -7,5 +7,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(String.format("Hello, my name is %s.", name));
         System.out.println(String.format("Hello %s!", name));
+
+        System.out.print(String.format("Hello Beth, my name is %s.", "Anne"));
     }
 }
