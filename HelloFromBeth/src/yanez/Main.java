@@ -9,5 +9,8 @@ public class Main {
         System.out.println(String.format("Hello %s!", name));
 
         System.out.print(String.format("Hello Beth, my name is %s.", "Anne"));
+        System.out.println("");
+        String name = "Lisa";
+        System.out.println(String.format("Hello Beth, my name is %s.", name));
     }
 }
